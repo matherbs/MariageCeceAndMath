@@ -45,7 +45,7 @@ font-family: 'Pacifico', cursive;
 
 @media (min-aspect-ratio: 18/9) and (min-width: 700px) { 
   #Hbackground {
-    background-image: url("image/Nous1.jpg");
+    background-image: url("Nous1.jpg");
   }
 
   #Save {
@@ -79,7 +79,7 @@ font-family: 'Pacifico', cursive;
 
 @media (max-aspect-ratio: 18/9) and (min-width: 700px) {
   #Hbackground {
-    background-image: url("image/Nous1.jpg");
+    background-image: url("Nous1.jpg");
   }
 
   #Save {
@@ -114,7 +114,7 @@ font-family: 'Pacifico', cursive;
 
 @media (max-width: 800px) {
   #Hbackground {
-    background-image: url("image/NousV1.jpg");
+    background-image: url("NousV1.jpg");
   }
 
   #Save {
