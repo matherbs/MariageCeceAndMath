@@ -39,7 +39,9 @@ font-family: 'Pacifico', cursive;
 
 #Who:hover {
   opacity: 100%;
+  -webkit-animation: swing 1s ease;
   animation: swing 1s ease;
+  -webkit-animation-iteration-count: 1;
   animation-iteration-count: 1;
 }
 
