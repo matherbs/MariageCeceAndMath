@@ -57,8 +57,8 @@ font-family: 'Pacifico', cursive;
     left: 5vw;
     width: 35vw;
     font-size: 2.5vw;
-    padding: 1vh;
-    border-radius: 1vh;
+    padding: 2vh;
+    border-radius: 2vh;
   }
 
   #What {
@@ -66,8 +66,8 @@ font-family: 'Pacifico', cursive;
     left: 5vw;
     width: 35vw;
     font-size: 1.5vw;
-    padding: 1vh;
-    border-radius: 1vh;
+    padding: 2vh;
+    border-radius: 2vh;
   }
 
   #Who {
@@ -75,8 +75,8 @@ font-family: 'Pacifico', cursive;
     right: 5vw;
     width: 35vw;
     font-size: 1.5vw;
-    padding: 1vh;
-    border-radius: 1vh;
+    padding: 2vh;
+    border-radius: 2vh;
   }
 
 }
@@ -91,8 +91,8 @@ font-family: 'Pacifico', cursive;
     left: 25vw;
     width: 50vw;
     font-size: 3.5vw;
-    padding: 1vh;
-    border-radius: 1vh;
+    padding: 2vh;
+    border-radius: 2vh;
   }
 
   #What {
@@ -100,8 +100,8 @@ font-family: 'Pacifico', cursive;
     left: 5vw;
     width: 35vw;
     font-size: 1.5vw;
-    padding: 1vh;
-    border-radius: 1vh;
+    padding: 2vh;
+    border-radius: 2vh;
   }
 
   #Who {
@@ -109,8 +109,8 @@ font-family: 'Pacifico', cursive;
     right: 5vw;
     width: 35vw;
     font-size: 1.5vw;
-    padding: 1vh;
-    border-radius: 1vh;
+    padding: 2vh;
+    border-radius: 2vh;
   }
 }
 
@@ -126,8 +126,8 @@ font-family: 'Pacifico', cursive;
     left: 5vw;
     width: 90vw;
     font-size: 7vw;
-    padding: 1vw;
-    border-radius: 1vw;
+    padding: 2vw;
+    border-radius: 2vw;
   }
 
   #What {
@@ -135,8 +135,8 @@ font-family: 'Pacifico', cursive;
     left: 5vw;
     width: 90vw;
     font-size: 4vw;
-    padding: 1vw;
-    border-radius: 1vw;
+    padding: 2vw;
+    border-radius: 2vw;
   }
 
   #Who {
@@ -144,7 +144,7 @@ font-family: 'Pacifico', cursive;
     left: 5vw;
     width: 90vw;
     font-size: 4vw;
-    padding: 1vw;
-    border-radius: 1vw;
+    padding: 2vw;
+    border-radius: 2vw;
   }
 }
