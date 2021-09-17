@@ -37,8 +37,8 @@ font-family: 'Pacifico', cursive;
   opacity: 95%;
 }
 
-.Bold{
-  font-weight: bold;
+#Who:hover {
+  opacity: 100%;
 }
 
 /*Desktop*/
