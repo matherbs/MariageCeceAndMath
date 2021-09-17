@@ -39,6 +39,8 @@ font-family: 'Pacifico', cursive;
 
 #Who:hover {
   opacity: 100%;
+  animation: swing 1s ease;
+  animation-iteration-count: 1;
 }
 
 /*Desktop*/
